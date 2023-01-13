@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412482129058",
+    "project_id": "wrapshots-ac38a",
+    "storage_bucket": "wrapshots-ac38a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412482129058:android:ec40e3df2a1d59b6d19bfb",
+        "android_client_info": {
+          "package_name": "com.example.wrapshots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412482129058-f5cehgpannn8fh4vrkiggerqpngtf4h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYgOpd9Rv0eifdztK5Jva-U7WPxNftStA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412482129058-f5cehgpannn8fh4vrkiggerqpngtf4h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
